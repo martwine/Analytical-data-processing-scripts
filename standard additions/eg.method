@@ -1,0 +1,2 @@
+stock_concn	sample_volume	baseline_method tracer_name	tracer_type	metadata
+5e-5		2e-2		-555		-7777		-7777		"NH4 t=0 innoculated on board THV ALert 22/10/10, analysed 26/10/10 with Jasco FP750 flurometer on high sensitivity BF with WR added found to decrease very quickly so seems innapropriately high for BF estimate. Therefore used raw (uninnoculated) sample as BF (baseline_method -555)"
